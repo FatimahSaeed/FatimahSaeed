@@ -1,0 +1,26 @@
+### Hi there 👋
+
+This project contain hosted page with chatbot.
+
+The web page is responsive for diffrent size of screens. The background and the text stretch to fit the size of all screens. 
+
+mobileView imag is screenshot for the page on iPhone 6/7/8 from the browser. 
+
+For more details visit https://github.com/FatimahSaeed/evaluationChatbot 
+
+The chatbot provided by Watson assistant. 
+
+<!--
+**FatimahSaeed/FatimahSaeed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
